@@ -7,7 +7,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/No_Cattle4360) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22926871)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prakash63690@gmail.com)
-![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=dev.to&logoColor=white)](https://dev.to/prakas)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%23D19836)](https://dev.to/prakas)
 
 
 # 💻 Tech Stack:
